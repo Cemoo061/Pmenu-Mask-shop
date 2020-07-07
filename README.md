@@ -1,2 +1,4 @@
 # Pmenu-Mask-shop
-https://discord.gg/VjeY68P
+Mask shop in pmenu 
+
+For more information = https://discord.gg/VjeY68P
