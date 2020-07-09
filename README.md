@@ -8,10 +8,7 @@ Masque fais pare moi en pmenu 👍
 Mettre le script dans le dossier resource .
 
 Start le script 🤪
-
-
-
-
+# Contact
 Review = https://streamable.com/or240p
 
 For more information = https://discord.gg/VjeY68P
