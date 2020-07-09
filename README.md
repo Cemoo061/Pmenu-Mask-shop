@@ -1,5 +1,10 @@
 # Pmenu-Mask-shop
-Mask shop in pmenu 
+FIVEM 🐌
+Ici un petit magasin de masque fais pare moi en pmenu 
+
+# Instalation
+Mettre le script dans le dossier resource .
+
 
 
 
