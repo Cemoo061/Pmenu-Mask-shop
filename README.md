@@ -11,4 +11,4 @@ Start le script 🤪
 # Contact
 Review = https://streamable.com/or240p
 
-For more information = https://discord.gg/u2T8ZrR
+For more information = https://discord.gg/zxRFBUj8XQ
