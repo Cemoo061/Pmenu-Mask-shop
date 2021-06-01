@@ -114,20 +114,20 @@ local ClosesShops = {
 	Menu = {
 		["Masque disponibles:"] = {
 			b = {
-				{name = "Masque:", slidemax = 130},
-				{name = "Couleur Masque: ", ask = ">", askX = true},
-				{name = "~g~Payer sont masque", ask = ">", askX = true},
-				{name = "~r~Fermer le menu", ask = ">", askX = true}
+				{name = "Maske:", slidemax = 130},
+				{name = "Masken Farbe: ", ask = ">", askX = true},
+				{name = "~g~Bezahlen", ask = ">", askX = true},
+				{name = "~r~Verlassen!", ask = ">", askX = true}
 			}
 		}, 
 		["masque: "] = {
 			b = {
-				{name = "Masque:", slidemax = 130},
+				{name = "Maske:", slidemax = 130},
 			}
 		},
 		["couleur masque: "] = {
 			b = {
-				{name = "Couleur Masque:", slidemax = 10},
+				{name = "Masken Farbe:", slidemax = 10},
 			}
 		},
 	}
